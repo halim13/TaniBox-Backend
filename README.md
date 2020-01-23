@@ -11,7 +11,7 @@ Express.js is a web application framework for Node.js. [More about Express](http
 [![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
 
 ## Requirements
-1. <a href="https://www.npmjs.com/">npm</a>
+1. <a href="https://nodejs.org/en/">Node JS</a>
 2. <a href="https://www.getpostman.com/">Postman</a>
 3. Web Server (ex. localhost)
 4. MySql
